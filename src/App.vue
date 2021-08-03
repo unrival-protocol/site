@@ -22,4 +22,13 @@ export default {
 </script>
 
 <style>
+  .html {
+  background: hsla(180, 13%, 58%, 1);
+
+  background: linear-gradient(90deg, hsla(180, 13%, 58%, 1) 0%, hsla(335, 16%, 61%, 1) 100%);
+
+  background: -moz-linear-gradient(90deg, hsla(180, 13%, 58%, 1) 0%, hsla(335, 16%, 61%, 1) 100%);
+
+  background: -webkit-linear-gradient(90deg, hsla(180, 13%, 58%, 1) 0%, hsla(335, 16%, 61%, 1) 100%);
+  }
 </style>
