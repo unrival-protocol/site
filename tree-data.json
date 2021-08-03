@@ -1,0 +1,74 @@
+{
+    "name": "Unrival",
+    "children": [
+        { "name": "1. to undo a state of rivalry", "class": "definition" },
+        { "name": "2. to outcompete conclusively", "class": "definition" },
+    {
+        "name": "3. a protocol for accomplishing the above",
+        "class": "definition",
+        "children": [
+            {
+                "name": "a) for individuals",
+                "children": [
+                    {
+                        "name": "i) inquire"
+                    },
+                    {
+                        "name": "ii) set goals"
+                    },
+                    {
+                        "name": "iii) learn to unrival",
+                        "children": [
+                            {
+                                "name": "read the whitepaper",
+                                "link": "https://github.com/unrival-protocol"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "b) for groups",
+                "children": [
+                    {
+                        "name": "i) create an object",
+                        "children": [
+                            {
+                                "name": "what?",
+                                "children": [
+                                    {
+                                        "name": "1. a concept that makes a set of falsifiable claims about itself",
+                                        "class": "definition"
+
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "how?",
+                                "children": [
+                                    {
+                                        "name": "get started"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "ii) create a proof",
+                        "children": [
+                            {
+                                "name": "what?",
+                                "children": [
+                                    {
+                                        "name": "1. a program that verifies that an object is what it claims to be.",
+                                        "class": "definition"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]}
