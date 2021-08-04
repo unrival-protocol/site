@@ -11,19 +11,13 @@
                 "name": "a) for individuals",
                 "children": [
                     {
-                        "name": "i) inquire"
+                        "name": "i) what to do"
                     },
                     {
-                        "name": "ii) set goals"
+                        "name": "ii) how to do it"
                     },
                     {
-                        "name": "iii) learn to unrival",
-                        "children": [
-                            {
-                                "name": "read the whitepaper",
-                                "link": "https://github.com/unrival-protocol"
-                            }
-                        ]
+                        "name": "iii) get it done!"
                     }
                 ]
             },
@@ -31,42 +25,29 @@
                 "name": "b) for groups",
                 "children": [
                     {
-                        "name": "i) create an object",
+                        "name": "i) search for what you want",
                         "children": [
                             {
-                                "name": "what?",
-                                "children": [
-                                    {
-                                        "name": "1. a concept that makes a set of falsifiable claims about itself",
-                                        "class": "definition"
 
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "how?",
-                                "children": [
-                                    {
-                                        "name": "get started"
-                                    }
-                                ]
+                                "name": "(found it?  then you're done for now!)"
                             }
                         ]
                     },
                     {
-                        "name": "ii) create a proof",
+                        "name": "ii) can't find what you're looking for?  then create it!",
                         "children": [
                             {
-                                "name": "what?",
-                                "children": [
-                                    {
-                                        "name": "1. a program that verifies that an object is what it claims to be.",
-                                        "class": "definition"
-                                    }
-                                ]
+
+                                "name": "a) is it an instance of something else?"
+                            },
+                            {
+
+                                "name": "b) or is it something new entirely?"
                             }
                         ]
+
                     }
+
                 ]
             }
         ]

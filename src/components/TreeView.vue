@@ -34,13 +34,12 @@
 <style>
 body {
   font-family: Menlo, Consolas, monospace;
-  color: #444;
 
   height: 200px;
   padding: 3vw;
   padding-top: 1vw;
-  font-size: 30px;
-}
+  font-size: 40px;
+  color: rgb(239, 237, 244);}
 li {
   list-style-type: none;
 }

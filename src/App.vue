@@ -22,13 +22,10 @@ export default {
 </script>
 
 <style>
-  .html {
-  background: hsla(180, 13%, 58%, 1);
-
-  background: linear-gradient(90deg, hsla(180, 13%, 58%, 1) 0%, hsla(335, 16%, 61%, 1) 100%);
-
-  background: -moz-linear-gradient(90deg, hsla(180, 13%, 58%, 1) 0%, hsla(335, 16%, 61%, 1) 100%);
-
-  background: -webkit-linear-gradient(90deg, hsla(180, 13%, 58%, 1) 0%, hsla(335, 16%, 61%, 1) 100%);
+  body {
+  color: rgb(250, 255, 248);
+  background: #0052d4; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #0052d4, #4364f7, #6fb1fc); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #0052d4, #4364f7, #6fb1fc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   }
 </style>
