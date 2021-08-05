@@ -22,10 +22,10 @@ export default {
 </script>
 
 <style>
-  body {
-  color: rgb(250, 255, 248);
-  background: #0052d4; /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #0052d4, #4364f7, #6fb1fc); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #0052d4, #4364f7, #6fb1fc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  }
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+
+body {
+    font-family: 'Courier Prime', monospace;
+    background: rgb(240,240,240);
+}
 </style>

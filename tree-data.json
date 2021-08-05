@@ -11,13 +11,39 @@
                 "name": "a) for individuals",
                 "children": [
                     {
-                        "name": "i) what to do"
+                        "name": "i) what to do",
+                        "children": [
+                            {
+                                "name": "Unrival can be used to manage your personal goals.",
+                                "class": "comment"
+                            },
+                            {
+                                "name": "figure out",
+                                "link": "https://unrival.com"
+                            }
+
+                        ]
                     },
                     {
-                        "name": "ii) how to do it"
+                        "name": "ii) how to do it",
+                        "children": [
+                            {
+                                "name": "order your TODOs",
+                                "link": "https://unrival.com"
+                            }
+
+                        ]
                     },
                     {
-                        "name": "iii) get it done!"
+                        "name": "iii) get it done!",
+                        "children": [
+                            {
+                                "name": "(and track your progress!)",
+                                "link": "https://unrival.com"
+                            }
+
+                        ]
+
                     }
                 ]
             },
@@ -25,7 +51,7 @@
                 "name": "b) for groups",
                 "children": [
                     {
-                        "name": "i) search for what you want",
+                        "name": "i) search",
                         "children": [
                             {
 
@@ -34,15 +60,15 @@
                         ]
                     },
                     {
-                        "name": "ii) can't find what you're looking for?  then create it!",
+                        "name": "ii) create",
                         "children": [
                             {
 
-                                "name": "a) is it an instance of something else?"
+                                "name": "a) an instance of something?"
                             },
                             {
 
-                                "name": "b) or is it something new entirely?"
+                                "name": "b) something brand new?"
                             }
                         ]
 
