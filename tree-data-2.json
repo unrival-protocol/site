@@ -1,0 +1,50 @@
+{
+    "name": "unrival",
+    "children": [
+        { "name": "1. to undo a state of rivalry", "class": "definition" },
+        { "name": "2. to outcompete conclusively", "class": "definition" },
+    {
+        "name": "3. a protocol for accomplishing the above",
+        "class": "definition",
+        "children": [
+            {
+                "name": "protocol",
+                "children": [
+                    {
+                        "name": "1. a set of conventions governing the treatment and especially the formatting of data in an electronic communications system",
+                        "class": "definition"
+                    }
+                ]
+            }
+        ]
+    },
+        {
+            "name": "4. an autopoetic social operating system based on this protocol ",
+            "class": "definition",
+            "children": [
+                {
+                    "name": "autopoetic",
+                    "children": [
+                        {
+                            "name": "1. capable of reproducing and maintaining itself by creating its own parts and eventually further components.",
+                            "class": "definition"
+                        }
+                    ]
+                },
+                {
+                    "name": "social operating system",
+                    "children": [
+                        {
+                            "name": "1. a system that manages social resources.",
+                            "class": "definition"
+                        }
+                    ]
+                },
+                {
+                    "name": "Social operating systems are the next stage of evolution after social networks.  Unrival is based on ",
+                    "class": "comment"
+                }
+            ]
+        }
+
+]}

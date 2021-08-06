@@ -19,7 +19,7 @@
 </template>
 
 <script>
-import treeData from '../../tree-data.json'
+import treeData from '../../tree-data-2.json'
 import image1 from "../../assets/images/pic1.png"
 import image2 from "../../assets/images/pic2.png"
 import image3 from "../../assets/images/pic3.png"

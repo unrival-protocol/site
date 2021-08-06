@@ -11,24 +11,28 @@
                 "name": "a) for individuals",
                 "children": [
                     {
-                        "name": "i) what to do",
+                        "name": "i) what to do?",
                         "children": [
                             {
-                                "name": "Unrival can be used to manage your personal goals.",
+                                "name": "You can use Unrival as a personal goal manager.",
                                 "class": "comment"
                             },
                             {
-                                "name": "figure out",
+                                "name": "start here",
                                 "link": "https://unrival.com"
                             }
 
                         ]
                     },
                     {
-                        "name": "ii) how to do it",
+                        "name": "ii) how to do it?",
                         "children": [
                             {
-                                "name": "order your TODOs",
+                                "name": "Unrival connects you with means of accomplishing your goals.  If you choose to make your goals public, they will become part of an internet of goals.  Collective intelligence will ",
+                                "class": "comment"
+                            },
+                            {
+                                "name": "set goals",
                                 "link": "https://unrival.com"
                             }
 
